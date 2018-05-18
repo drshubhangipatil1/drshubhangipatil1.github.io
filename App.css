@@ -288,7 +288,7 @@
   padding: 5px;
 }
 
-@media screen and (max-width: 769px) {
+@media screen and (max-width: 993px) {
     .width-100 {
       width: 100%;
     }
@@ -362,6 +362,8 @@
       font-size: 22px;
       text-align: center;
     }
+
+
 
 }
 
