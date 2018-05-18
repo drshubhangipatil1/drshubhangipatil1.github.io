@@ -288,7 +288,7 @@
   padding: 5px;
 }
 
-@media screen and (max-width: 1081px) {
+@media screen and (max-width: 1200px) {
     .width-100 {
       width: 100%;
     }
@@ -308,13 +308,13 @@
     .aptmnt-text {
       color: #FFFFFF;
       font-family: Roboto;
-      font-size: 14px;
+      font-size: 16px;
     }
 
     .header-text-2 {
       width: 100%;
       color: #FFFFFF;
-      font-size: 22px;
+      font-size: 28px;
       padding: 68px 20px 23px 20px;
     }
 
@@ -425,7 +425,7 @@
 
     .header-text-1 {
       color: #000;
-      font-size: 22px;
+      font-size: 18px;
       font-weight: bold;
       line-height: 16px;
       padding: 10px;
@@ -434,8 +434,8 @@
     .header-text-3 {
       color: #FFF;
       font-family: Roboto;
-      font-size: 18px;
-      line-height: 21px;
+      font-size: 22px;
+      line-height: 23px;
       padding-bottom: 15px;
     }
 
@@ -445,7 +445,7 @@
       font-family: Roboto;
       font-size: 16px;
       font-weight: bold;
-      line-height: 16px;
+      line-height: 17px;
       text-align: center;
       margin-right: 22px;
     }
@@ -520,7 +520,7 @@
     .div-5-text-4 {
       color: #000000;
       font-family: Roboto;
-      font-size: 24px;
+      font-size: 28px;
       font-weight: bold;
       line-height: 28px;
       margin-bottom: 16px;
