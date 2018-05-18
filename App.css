@@ -15,6 +15,7 @@
 
 .logo {
   max-width: 200px;
+  max-height: 41px;
   border-radius: 3px;
 }
 
@@ -73,7 +74,7 @@
 
 .div-7 {
   background-color: #263D6F;
-  padding: 25px 6vw 73px 6vw;
+  padding: 25px 6vw 0 6vw;
 }
 
 .header-text-1 {
