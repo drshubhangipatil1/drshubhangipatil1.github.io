@@ -14,7 +14,6 @@
 }
 
 .logo {
-  max-width: 200px;
   max-height: 41px;
   border-radius: 3px;
 }
@@ -267,13 +266,13 @@
   padding: 5px;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1100px) {
     .width-100 {
       width: 100%;
     }
 
-    .logo {
-      max-height: 9vw ;
+    .logo-sml {
+      max-height: 12vw ;
       text-align: center;
       border-radius: 3px;
     }
