@@ -8,7 +8,7 @@
 }
 
 .header {
-  padding: 10px 6vw;
+  padding: 10px 3vw;
   background: #FFF
 
 }
@@ -294,7 +294,8 @@
     }
 
     .logo {
-      max-width: 150px;
+      max-height: 9vw ;
+      text-align: center;
       border-radius: 3px;
     }
 
@@ -375,7 +376,8 @@
 
     .header {
       padding: 10px 6vw;
-      background: #FFF
+      background: #FFF;
+      height: 18vw;
 
     }
 
@@ -428,14 +430,11 @@
       font-size: 18px;
       font-weight: bold;
       line-height: 16px;
-      padding: 10px;
     }
 
     .header-text-3 {
       color: #FFF;
       font-family: Roboto;
-      font-size: 22px;
-      line-height: 23px;
       padding-bottom: 15px;
     }
 
