@@ -547,6 +547,10 @@
       padding: 5px;
     }
 
+    .modal-dialog {
+      max-width: 90% !important;
+    }
+
 
 }
 
